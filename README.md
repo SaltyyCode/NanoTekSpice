@@ -65,4 +65,4 @@ output(s):
 ## Authors
 [SaltyyCode](https://www.github.com/SaltyyCode) (Shell / Circuit / Elementary & Gates Component) 
 
-~~[@JulienMars](https://github.com/Julienmarss)~~ (Parsing & Advanced Components (only 4008 working))
+~~[@JulienMars](https://github.com/Julienmarss)~~ (Parser)
